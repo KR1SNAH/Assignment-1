@@ -178,6 +178,11 @@ img{
     color: #555;
 }
 
+.achievements h2, h3
+{
+    text-align: center;
+}
+
 
 footer {
     background-color: #333;
