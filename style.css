@@ -1,0 +1,193 @@
+body {
+    background-image: url(./images/background.jpg);
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.intro {
+    background-color: #333;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.intro h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+.intro h2 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+    font-weight: 300;
+}
+
+.summary {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.summary h2 {
+    margin-bottom: 10px;
+    font-size: 1.8rem;
+    color: #333;
+}
+
+.summary p {
+    text-align: center;
+    font-size: 1.1rem;
+    color: #555;
+}
+
+.education {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 8px;
+}
+
+.education h2 {
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+}
+
+.education table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.education th, td {
+    padding: 10px;
+    border-bottom: 1px solid #555;
+}
+
+.education thead th {
+    background-color: #444;
+}
+
+.experience {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.experience h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.experience h3 {
+    font-size: 1.3rem;
+    margin: 0;
+    text-align: center;
+    color: #555;
+}
+
+.experience h4 {
+    font-size: 1.1rem;
+    text-align: center;
+    color: #999;
+    margin-bottom: 20px;
+}
+
+.experience ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.experience ul li {
+    margin: 10px 0;
+    font-size: 1rem;
+    color: #555;
+}
+
+.skills {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.skills h2 {
+    font-size: 1.8rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.skills table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.skills td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.skills tbody td:hover {
+    background-color: #333;
+    color: white;
+}
+
+.achievements {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.achievements h2 {
+    text-align: center;
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+.achievements ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+
+.achievements ul li {
+    font-size: 1.1rem;
+    color: #555;
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 0;
+    font-size: 1rem;
+}
